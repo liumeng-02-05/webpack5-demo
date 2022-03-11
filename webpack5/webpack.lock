@@ -1,0 +1,6 @@
+{
+  "http://hp.hpbb.me//upload/20171103100200822646.jpeg?x-oss-process=style/thumb": { "integrity": "sha512-+M24xojaiv9PYyaV/rVWMeryshdAeRCbH+Gmz4ODZNBLFISmR1vyITQyINtZLSXyHOrxbZdYEhr+TmBcVGLtpg==", "contentType": "image/jpeg" },
+  "http://hp.hpbb.me//upload/20171108173745476048.jpeg?x-oss-process=style/thumb": { "integrity": "sha512-W7rf+LEvyR412MIWYzson2rl1ySac8/rzZeC2XMOvYIXLqTfUP2grB44LrKzg0Yxk7amgGgsMLxjsTTMJyVPlw==", "contentType": "image/jpeg" },
+  "https://fast-learn-oss.youbaobao.xyz/tb/category6.png": { "integrity": "sha512-0/h9mSZPhRj+yWNEHygUblj4RJ8kEXCyy2nFwY/h7d/+QLOS7aKP5kfwT8jL98gYFFq0SiqXTmG9FnwTfhUesw==", "contentType": "image/png" },
+  "version": 1
+}
